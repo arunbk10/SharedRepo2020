@@ -1,0 +1,3 @@
+IN app development there are 3 tpes of approaches are there they are native,hybrid and cross platform.
+native approach is widely used one.it uses seprate developmet for andriod and ios ,when UI ,performance is matters native applications are best one and the disadvantages with native is they are time consuming to develop and budget is more.
+hybrid approach is used when development time and budget are less and when simple UI is enough and it doesnt require two seprate development for ios and andriod. 
