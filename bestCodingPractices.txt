@@ -1,0 +1,7 @@
+Coding best practices
+using camel case: which starts with lowercase and every progressive word starts with uppercase, it helps to differentiate between words
+snake case can also be used: it uses underscore'_' to separate words
+adding comments for other developers understanding or future reference
+no unnecessary long codes, dead codes or redundant codes 
+proper indentation of the codes so it looks clean and organised
+uploading on github for backup or to keep track of which developer is doing what
