@@ -1,0 +1,3 @@
+Application lifecycle: Lifecycle of an application is about from not running state to running state
+In the begining the application will be in not running state later it is loaded to foreground state from 
+inactive to active from active to background state and next to the suspended state.
